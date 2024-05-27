@@ -1,19 +1,11 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Hometown Homepage
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+This HTML code creates a webpage promoting Dublin as a travel destination. The page consists of several sections:
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+1. Hero Section: It features a large image of Dublin, accompanied by a title ("Visit Dublin") and a brief description highlighting the history and culture of the city.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+2. Activities Section: This section lists the top three activities to do in Dublin. Each activity is presented with an image, a title, and a description.
 
-Happy Coding!
+3. Guide Section: Here, a local citizen named Connor McCarthy shares a quote about living in Dublin. His quote emphasizes the warmth of the city's history, culture, and craic (a term for fun and enjoyment).
+
+The webpage is styled using CSS, with a color palette inspired by Dublin's hues. The design employs vibrant blues and reds against a dark background to evoke the city's lively atmosphere. The layout is responsive, ensuring optimal viewing across different devices. Overall, the webpage effectively showcases Dublin's attractions and invites visitors to explore its rich heritage and experiences.
